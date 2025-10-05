@@ -21,7 +21,7 @@ Code enthusiast
 
 
 ## Education
-- 2020.09 - 2014.06: School of Computer and Electronic Information, Guangxi University  
+- 2020.09 - 2024.06: School of Computer and Electronic Information, Guangxi University  
 - 2015.09 - 2019.06: School of Electronic Engineering, Jiujiang University  
 
 
